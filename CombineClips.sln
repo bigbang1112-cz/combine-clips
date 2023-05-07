@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineClips", "CombineClips\CombineClips.csproj", "{9589A213-9311-4959-A98C-C6EC89764B6B}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GbxToolAPI", "GbxToolAPI\Src\GbxToolAPI\GbxToolAPI.csproj", "{FA840C07-F591-4C70-ABEA-C8A0E0333782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombineClips", "CombineClips\CombineClips.csproj", "{9589A213-9311-4959-A98C-C6EC89764B6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{9589A213-9311-4959-A98C-C6EC89764B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9589A213-9311-4959-A98C-C6EC89764B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9589A213-9311-4959-A98C-C6EC89764B6B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FA840C07-F591-4C70-ABEA-C8A0E0333782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA840C07-F591-4C70-ABEA-C8A0E0333782}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA840C07-F591-4C70-ABEA-C8A0E0333782}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA840C07-F591-4C70-ABEA-C8A0E0333782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
