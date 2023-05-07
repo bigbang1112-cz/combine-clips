@@ -3,6 +3,7 @@ using GbxToolAPI;
 
 namespace CombineClips;
 
+[ToolName("Combine Clips")]
 public class CombineClipsTool : ITool, IHasOutput<CGameCtnMediaClip>
 {
     private readonly IEnumerable<CGameCtnMediaClip> clips;
